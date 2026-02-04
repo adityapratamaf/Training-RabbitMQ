@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProductImportService/ProductImportService.csproj" />
+  <Project Path="ProductStagingService/ProductStagingService.csproj" Id="65686f6e-cbde-4631-ac5c-32fb6f1fabe9" />
+</Solution>

@@ -1,0 +1,21 @@
+Sku;Name;Description;Price;Stock;IsActive
+SKU-101;Keyboard Mechanical;Valid row;499000;10;TRUE
+SKU-102;Mouse Gaming;Valid row;199000;20;TRUE
+SKU-103;Headset;Valid row;299000;5;TRUE
+;Monitor 24 Inch;SKU kosong harus error;1799000;3;TRUE
+SKU-104;USB Hub;Price 0 harus error;0;15;TRUE
+SKU-105;SSD 512GB;Stock negatif harus error;599000;-2;TRUE
+SKU-106;RAM 16GB;Valid row;489000;7;TRUE
+SKU-107;Speaker;Price negatif harus error;-150000;8;TRUE
+SKU-108;Webcam;Valid row;359000;4;TRUE
+SKU-005;Flashdisk 128GB;Duplicate test row 1;129000;11;TRUE
+SKU-005;Flashdisk 128GB;Duplicate test row 2;129000;11;TRUE
+SKU-109;Laptop Stand;Valid row;129000;9;TRUE
+SKU-110;Cooling Pad;Valid row;169000;12;TRUE
+SKU-111;Power Bank 20000mAh;Valid row;249000;6;TRUE
+SKU-112;Charger 65W;Valid row;289000;10;TRUE
+SKU-113;Cable USB-C;Valid row;59000;25;TRUE
+SKU-114;External HDD 2TB;Valid row;899000;2;TRUE
+SKU-115;Monitor 27 Inch;Valid row;3299000;1;TRUE
+SKU-116;Microphone USB;Valid row;399000;3;TRUE
+SKU-117;USB Hub Premium;Valid row;159000;14;TRUE
