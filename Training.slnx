@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ProductImportService/ProductImportService.csproj" />
+  <Project Path="ProductProductionService/ProductProductionService.csproj" Id="ba2353df-e1f5-4785-8e32-f757254ce4f7" />
   <Project Path="ProductStagingService/ProductStagingService.csproj" Id="65686f6e-cbde-4631-ac5c-32fb6f1fabe9" />
 </Solution>
